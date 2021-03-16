@@ -1,5 +1,5 @@
 ### Welcome !
-I am **frontend developer** passionate for the **tecnology** 💻 and **education** 🙋‍♂️ . Thus is ! also **I love to learn** about education and somes others subject. I tell you ?
+I am **frontend developer** passionate for the **technology** 💻 and **education** 🙋‍♂️ . Thus is ! also **I love to learn** about education and somes others subject. I tell you ?
 
 Lets begin !
 
