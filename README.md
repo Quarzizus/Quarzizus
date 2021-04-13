@@ -9,6 +9,6 @@ Lets begin !
 
 - to compose music 🎼
 
-🦉 I am currently learning **React.js** 🪐 ... in my repositories 📚 you would see my progress 
+🦉 I am currently learning **React.js** and **Redux** 🪐 ... in my repositories 📚 you would see my progress 
 
 You can **contact me** through of twitter how [@quarzizus ](https://twitter.com/quarzizus "@quarzizus ") I will be pleased of talk with you 🖤
