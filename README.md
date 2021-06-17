@@ -3,12 +3,10 @@ I am **frontend developer** passionate for the **technology** 💻 and **educati
 
 Lets begin !
 
-- to tell short histories 🖊
+- To tell short histories 🖊
+- To play piano 🎹
+- To compose music 🎼
 
-- to play piano 🎹
-
-- to compose music 🎼
-
-🦉 I am currently learning **React.js** and **Redux** 🪐 ... in my repositories 📚 you would see my progress 
+🦉 I am currently learning **Redux** and **Firebase** 🪐 ... in my repositories 📚 you would see my progress 
 
 You can **contact me** through of twitter how [@quarzizus ](https://twitter.com/quarzizus "@quarzizus ") I will be pleased of talk with you 🖤
