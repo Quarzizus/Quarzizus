@@ -16,8 +16,8 @@ Lets begin !
 
 You can **contact me** through of: 
 
-- Twitter [@quarzizus](https://twitter.com/quarzizus) 
-- Linkedin [Miguel Vásquez](https://www.linkedin.com/in/miguel-v%C3%A1squez-6957251a5/ ) 
+- Twitter [@quarzizus](https://twitter.com/quarzizus/) 
+- Linkedin [Miguel Vásquez](https://www.linkedin.com/in/quarzizus/) 
 - Platzi [Miguel Vásquez](https://platzi.com/p/quarzizus/) 
 
 I will be pleased of talk with you 🖤
