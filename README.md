@@ -10,7 +10,7 @@ Lets begin !
 -  🎼 To compose music. 
 
 
-🦉 I am currently learning **Redux** and **Firebase** 🪐 ... in my repositories 📚 you would see my progress 
+🦉 I am currently learning **Node.js** and **Firebase** 🪐 ... in my repositories 📚 you would see my progress 
 
 🚀 Porfolio -> https://quarzizus.web.app
 
