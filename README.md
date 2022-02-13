@@ -1,23 +1,34 @@
-## Welcome !
-I am **frontend developer** passionate for the **technology** 💻 and **education** 🙋‍♂️ . Thus is ! also **I love to learn** about education and somes others subject. I tell you ?
-
-Lets begin !
-
--  🖊 To tell short histories.
-
--  🎹 To play piano. 
-
--  🎼 To compose music. 
+<h2> Hi, I am Miguel Vásquez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-🦉 I am currently learning **Testing** and **Typescript** 🪐 ... in my repositories 📚 you would see my progress 
+<i>🖤 Frontend Developer</i>
 
-🚀 Porfolio -> https://quarzizus.web.app
+<i>💚 Platzi Student</i>
 
-You can **contact me** through of: 
+<i>💙 Protalento</i>
 
-- Twitter [@quarzizus](https://twitter.com/quarzizus/) 
-- Linkedin [Miguel Vásquez](https://www.linkedin.com/in/quarzizus/) 
-- Platzi [Miguel Vásquez](https://platzi.com/p/quarzizus/) 
+<img align='right' src="https://media.giphy.com/media/bxy2ITP0QNTiffgM3H/giphy.gif" width="230">
 
-I will be pleased of talk with you 🖤
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Quarzizus?style=social)](https://twitter.com/Quarzizus)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-quarzizus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quarzizus/)](https://www.linkedin.com/in/quarzizus/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/quarzizus?label=follow&style=social)](https://github.com/Quarzizus)
+
+<p><img src="https://media.giphy.com/media/kBrB4AzRAzdHqGC4kg/giphy.gif" width="60"/>A little more about me</p>
+
+```
+  Skills:
+    - JavaScript
+    - TypeScript
+    - HTML
+    - CSS
+    - React
+
+  Tools:
+    - Redux
+    - Firebase
+    - Styled Components
+    - Sass
+    - Jest
+    - Vite.js
+    - GraphQl
+```
