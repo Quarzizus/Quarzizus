@@ -10,6 +10,8 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-quarzizus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quarzizus/)](https://www.linkedin.com/in/quarzizus/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/quarzizus?label=follow&style=social)](https://github.com/Quarzizus)
 
+Portafolio 
+https://quarzizus.web.app/
 <h2> <img src="https://media.giphy.com/media/fWrorpy7Jrlvi/giphy.gif" width="60"/>A little more about me ... </h2>
 
 ```
