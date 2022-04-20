@@ -4,7 +4,6 @@
 
 <i>💚 Platzi Student</i>
 
-<i>💙 Protalento</i>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Quarzizus?style=social)](https://twitter.com/Quarzizus)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-quarzizus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quarzizus/)](https://www.linkedin.com/in/quarzizus/)
@@ -15,16 +14,25 @@ https://quarzizus.web.app/
 <h2> <img src="https://media.giphy.com/media/fWrorpy7Jrlvi/giphy.gif" width="60"/>A little more about me ... </h2>
 
 ```
-  Skills:
+  Languages:
     - JavaScript
     - TypeScript
+    - Nodejs
     - HTML
     - CSS
-    - React
+ 
+  Frameworks
+    - React.js
+    - Vue.js
+    - Express.js
+  
+  Databases
+    - Firebase
+    - MongoDB
 
   Tools:
     - Redux
-    - Firebase
+    - Pinia
     - Styled Components
     - Sass
     - Jest
