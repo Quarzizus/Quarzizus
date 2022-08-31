@@ -25,14 +25,16 @@ I'm colombian Frontend Developer with one year of experience and musicial for vo
 
 <br/>
 
-<a href="https://quarzizus.web.app/" target="_blank" rel="noopener noreferrer" align="center">
- <h3>Portfolio</h3>
-</a>
+<h3>Portfolio</h3>
 <div align="center">
-  <img src="./assets/Portafolio.png" />
+  <a href="https://quarzizus.web.app/" target="_blank" rel="noopener noreferrer" >
+    <img src="./assets/Portafolio.png" />
+  </a>
 </div>
+
 <br/>
 <br/>
+
 <h3 align="left">Main Languages:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
