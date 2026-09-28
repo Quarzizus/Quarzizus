@@ -91,4 +91,3 @@ Metrónomo web moderno y progresivo (PWA) con motor de audio de alta precisión 
 - Portafolio: [quarzizus.web.app](https://quarzizus.web.app)
 - LinkedIn: [in/miguel-vasquez-correa](https://www.linkedin.com/in/miguel-vasquez-correa/)
 - Email: [miguelvasquez0680@gmail.com](mailto:miguelvasquez0680@gmail.com)
-- X / Twitter: [@Quarzizus](https://twitter.com/quarzizus)
